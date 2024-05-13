@@ -5,4 +5,4 @@ print("Functions")
 #Para fusionar las ramas, hacemos git merge nombre_de_la_rama_a_fusionar
 #git checkout me muevo yo / git merge muevo los datos
 print("Functins fixed")
-print("Functions: Do bla")
+print("Functions: Ble")
