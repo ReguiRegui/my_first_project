@@ -8,3 +8,5 @@ print("Funcion catastrofica que lo rompe todo")
 #Si queremos ver la difª respecto a la ultima version commiteada, hay que ir a la pestaña 'Control de codigo fuente' (Icono de nodos) a la izq y clicar sobre el nombre de archivo
 print("New Amazing Feat")
 #De nuevo, para guardar, hacemos un  git add
+#Si borramos una línea accidentalmente, podemos comprobar en el archivo que se ha perdido
+#Además, se puede recuperar mediante git checkout -- app.py
